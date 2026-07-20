@@ -1,21 +1,23 @@
-# About me
+# About Me
 
-# personal details
+## Introduction
+Hello! My name is Manoj Kumar.
 
-Name:Manoj kumar
-Email:manoj@gmail.com
-Phno:888888888
+## Education
+- B.Tech in Computer Science
 
-# intro
+## Skills
+- Java
+- Spring Boot
+- React
+- HTML
+- CSS
+- JavaScript
 
-My name is Manoj Kumar.I completed my B.tech in CSE.I completed Full stack java course.I have strong interest in web development, currently looking for an oppturinity to start my carrer in your organiztion.
+## Interests
+- Full Stack Development
+- Open Source
+- Bug Bounty Hunting
 
-# hobbies
-
-playing cricket
-listening music
-watching anime
-
-# Goal
-
-I want to become a skilled Full Stack Java Developer and contribute to  projects.
+## Goals
+I want to become a skilled Full Stack Java Developer and contribute to open-source projects.
