@@ -62,3 +62,11 @@ style: improve formatting
 refactor: simplify code
 test: add unit tests
 ```
+
+## Git Best Practices
+
+- Commit small and meaningful changes.
+- Write clear commit messages.
+- Pull the latest changes before starting work.
+- Use feature branches instead of working directly on the main branch.
+- Review code through Pull Requests before merging.
