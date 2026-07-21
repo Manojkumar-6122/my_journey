@@ -1,15 +1,15 @@
-# Day 2 - Internship Journal
+# Day 02 Journal
 
-**Date:** 21 July 2026
+**Date:** 22 July 2026
 
-## What I Learned
+## What I learned today
 
-Today I learned how developers collaborate using Git branches instead of working directly on the main branch. I also learned about Pull Requests, conventional commits, merging, and interactive rebasing.
+Today I learned how developers use Git branches and Pull Requests in a real workflow. I practiced creating a feature branch, making conventional commits (`docs:`, `feat:`, and `fix:`), pushing the branch to GitHub, creating a Pull Request, and merging it into the main branch. I also learned why interactive rebase is used to clean up commit history before merging.
 
-## What Was New
+## What was hard
 
-Although I already knew basic Git commands like `git add`, `git commit`, and `git push`, today I learned how professional teams manage code using feature branches and Pull Requests. Interactive rebasing was a completely new concept for me.
+The most challenging part was understanding when to use interactive rebase. I merged my Pull Request before performing the rebase and later realized that rebase should be done on the feature branch before merging. I also faced some confusion while renaming files and managing tracked and untracked files in Git.
 
-## One Question
+## One question I still have
 
-What are the best practices for resolving merge conflicts when multiple developers modify the same file?
+In a real company project, when should I choose **merge** over **rebase**, and what are the team's best practices for using them together?
