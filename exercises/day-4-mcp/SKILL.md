@@ -3,7 +3,7 @@
 ## What is a Skill?
 
 A Skill is a reusable set of instructions that teaches an AI how to perform a specific task. Instead of writing the same prompt repeatedly, we can create a Skill once and use it whenever needed.
-Just like a function in javascript.
+Just like a function in javascript which can be rusable.
 
 ## Why are Skills useful?
 
