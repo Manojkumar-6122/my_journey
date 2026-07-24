@@ -27,3 +27,9 @@ exercises/    - Practical exercises and implementations
 ```
 
 This repository contains my internship learning journey at Tech Arion, including daily journals, technical learnings, and practical exercises.
+
+## Day 5
+
+- Created and ran a Docker container
+- Learned Docker Images and Containers
+- Understood the Tech Arion deployment pipeline
