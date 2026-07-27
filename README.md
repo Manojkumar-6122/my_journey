@@ -33,3 +33,10 @@ This repository contains my internship learning journey at Tech Arion, including
 - Created and ran a Docker container
 - Learned Docker Images and Containers
 - Understood the Tech Arion deployment pipeline
+
+## Day 6
+
+- Built a responsive Tailwind CSS product card
+- Learned utility-first CSS
+- Practiced Flexbox and Grid
+- Understood responsive breakpoints
