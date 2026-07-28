@@ -40,3 +40,11 @@ This repository contains my internship learning journey at Tech Arion, including
 - Learned utility-first CSS
 - Practiced Flexbox and Grid
 - Understood responsive breakpoints
+
+
+## Day 7
+
+- Built a React Counter application
+- Practiced Components
+- Used Props and State
+- Learned the useState Hook
