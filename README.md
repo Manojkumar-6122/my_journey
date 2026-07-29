@@ -48,3 +48,11 @@ This repository contains my internship learning journey at Tech Arion, including
 - Practiced Components
 - Used Props and State
 - Learned the useState Hook
+
+## Day 8
+
+- Built a Next.js Landing Page
+- Learned App Router
+- Learned Server Components
+- Learned Client Components
+- Understood why Next.js is used
