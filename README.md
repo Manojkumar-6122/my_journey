@@ -56,3 +56,11 @@ This repository contains my internship learning journey at Tech Arion, including
 - Learned Server Components
 - Learned Client Components
 - Understood why Next.js is used
+
+## Day 9
+
+- Integrated PostHog
+- Tracked a custom event
+- Learned about Events
+- Learned about Funnels
+- Understood product analytics
