@@ -64,3 +64,28 @@ This repository contains my internship learning journey at Tech Arion, including
 - Learned about Events
 - Learned about Funnels
 - Understood product analytics
+
+
+# Day 10 Backend
+
+This exercise demonstrates Prisma ORM with PostgreSQL.
+
+Models:
+
+- User
+- Post
+
+Relationship:
+
+One User -> Many Posts
+
+Files:
+
+- schema.prisma
+- query.ts
+
+Features:
+
+- Create User
+- Create Posts
+- Fetch User with Posts
