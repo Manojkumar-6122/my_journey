@@ -89,3 +89,20 @@ Features:
 - Create User
 - Create Posts
 - Fetch User with Posts
+
+
+
+## Day 11
+
+- Built a full-stack Developer Portfolio
+- Created Skills REST API using Spring Boot
+- Connected React frontend with Spring Boot backend
+- Fetched live data from PostgreSQL database
+- Used Axios/Fetch to consume REST APIs
+- Learned the flow: UI → API → Database
+- Configured CORS for frontend-backend communication
+- Tested APIs using Browser and Postman
+- Verified data stored in PostgreSQL (Neon)
+- Understood how frontend and backend communicate on different ports
+- Practiced CRUD operations for Skills
+- Learned project structure for a full-stack application
